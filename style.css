@@ -1,0 +1,32 @@
+.body {
+    background-color: brown;
+}
+
+.cabecalho {
+    width: 200px;
+    height: 200px;
+}
+
+
+.div {
+    background-image: linear-gradient(rgb(32, 82, 148), rgb(0, 2, 128)); 
+    border: solid;    
+}
+.div1 {
+    border-radius: 10px;
+    
+}
+
+.home2 {
+    background-color: yellow;
+    color: black;
+}
+
+.t1 {
+    font-family: cursive ;
+    color: black;
+}
+
+.img2 {
+   border-radius: 5px;
+}
